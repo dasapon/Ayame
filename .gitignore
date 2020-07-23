@@ -1,0 +1,6 @@
+/bin/
+/obj/
+/.vscode/
+/x64/
+/.vs/
+Ayame.vcxproj.user
